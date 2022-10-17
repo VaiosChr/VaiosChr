@@ -1,10 +1,13 @@
-Hi, I’m Vaios Christodoulou, an Electrical & Computer Engineering student at the Aristotle University of Thessaloniki
+Hi, I’m **Vaios Christodoulou**, an Electrical & Computer Engineering student at the Aristotle University of Thessaloniki
 
-My interests include Mobile App & Software Development, Arduino / Robotics
+My interests include:
+- Autonomous Systems & Self Driving Cars
+- Mobile App & Software Development
+- Microcontrollers & Embedded Systems
 
-I’m currently learning ROS & the fundamentals of Cyber Security
+I’m currently working at **Aristurtle** (Aristotle University Racing Team Electric & Driverles) as an Autonomous System Engineer.
 
-The programming languages / frameworks I know are: 
+The programming languages - frameworks I know are: 
 - C / C++
 - Python
 - Java
