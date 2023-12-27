@@ -10,8 +10,8 @@ I’m currently working at **Aristurtle** (Aristotle University Racing Team Elec
 The programming languages - frameworks I know are: 
 - C / C++
 - Python
-- Java
-- Swift / SwiftUI
 - Dart / Flutter
+- ROS2
+- Java
 
 Contact me: vallos1501@gmail.com
