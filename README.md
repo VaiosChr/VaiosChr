@@ -11,7 +11,7 @@ The programming languages - frameworks I know are:
 - C / C++
 - Python
 - Dart / Flutter
-- ROS2
+- ROS / ROS2
 - Java
 
 Contact me: vallos1501@gmail.com
