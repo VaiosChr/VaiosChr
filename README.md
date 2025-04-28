@@ -1,11 +1,11 @@
-Hi, I’m **Vaios Christodoulou**, an Electrical & Computer Engineering student at the Aristotle University of Thessaloniki
+Hi, I’m **Vaios Christodoulou**, an Electrical & Computer Engineer, graduate of the Aristotle University of Thessaloniki
 
 My interests include:
-- Autonomous Systems & Self Driving Cars
+- Autonomous Systems, Robotics & Self Driving Cars
 - Mobile App & Software Development
 - Microcontrollers & Embedded Systems
 
-I am currently conducting research for my master's thesis, exploring new approaches for robot localization, exploiting RFID technology.
+I recently completed my master's thesis, where I explored new approaches for robot localization, exploiting RFID technology. I am currently writing a research paper based on this work, focusing on robot localization using RFID measurements.
 
 The programming languages - frameworks I know are: 
 - C / C++
